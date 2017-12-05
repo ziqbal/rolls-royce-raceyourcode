@@ -10,6 +10,14 @@ while Globals.running :
     AimForLane( 1.5 )
     Speed( 100 )
 
+    WaitForWaypoint( 6 )
+    AimForLane( -1.5 )
+    Speed( 100 )
+
+    WaitForWaypoint( 9 )
+    AimForLane( 1.5 )
+    Speed( 100 )
+
     WaitForSeconds( 0.01 )
     pass
 
