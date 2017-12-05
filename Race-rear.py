@@ -1,5 +1,6 @@
 
-AimForLane( 0 )
+AimForLane( -2 )
+
 Speed( 100 )
 
 WaitForGo( )
