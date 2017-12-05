@@ -2,7 +2,7 @@
 
 WaitForGo( )
 
-AimForLane( 0 )
+AimForLane( 1 )
 Speed( 90 )
 
 while Globals.running :
