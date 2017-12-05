@@ -1,1 +1,1 @@
-cp Race-front.py ../raceyourcode/
+cp Race-front.py ../raceyourcode/Race.py
