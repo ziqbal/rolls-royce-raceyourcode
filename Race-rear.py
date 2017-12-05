@@ -13,6 +13,10 @@ while Globals.running :
     Speed( 80 )
 
 
+    WaitForWaypoint( 3 )
+
+    AimForLane( -1 )
+    Speed( 100 )
 
 
     WaitForWaypoint( 9 )
