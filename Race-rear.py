@@ -17,6 +17,8 @@ while Globals.running :
     WaitForWaypoint( 3 )
     Speed(100)
 
+    WaitForWaypoint( 4 )
+    Speed(80)
 
     WaitForSeconds( 0.01 )
 
