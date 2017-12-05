@@ -7,8 +7,8 @@ Speed( 90 )
 
 while Globals.running :
 
-    AimForLane( random.uniform(-1,1 ))
+    AimForLane( random.uniform(-2,2 ))
 
-    WaitForSeconds( 0.01 )
+    WaitForSeconds( 0.1 )
 
 
