@@ -5,7 +5,7 @@ WaitForGo( )
 
 Speed( 100 )
 
-WaitForSeconds( 9.0 )
+WaitForSeconds( 7.0 )
 
 AimForLane( 0.4 )
 
