@@ -1,11 +1,15 @@
 
+AimForLane( 1.0 )
+
 WaitForGo( )
 
-AimForLane( 0.25 )
 Speed( 100 )
+
+WaitForSeconds( 7.0 )
+
+AimForLane( 0.5 )
 
 while Globals.running :
 
     WaitForSeconds( 0.1 )
-
 
