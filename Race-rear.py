@@ -1,11 +1,11 @@
 
-AimForLane( 2.0 )
+AimForLane( 1.0 )
 
 WaitForGo( )
 
 Speed( 100 )
 
-WaitForSeconds( 7.0 )
+WaitForSeconds( 8.0 )
 
 AimForLane( 0.4 )
 
